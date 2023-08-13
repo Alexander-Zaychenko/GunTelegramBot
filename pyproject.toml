@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "guntelegrambot"
+version = "1.0.0"
+description = ""
+authors = ["Alexander-Zaychenko <alexzay2012@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+bs4 = "^0.0.1"
+telebot = "^0.0.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
