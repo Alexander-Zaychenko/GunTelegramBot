@@ -1,6 +1,6 @@
 import telebot
 
-API_KEY = 'Это секретное значение'
+API_KEY = '6653887160:AAEd36W_zuXktXWwBQqxGyRlBq792-9cr3o'
 
 
 bot = telebot.TeleBot(API_KEY)
